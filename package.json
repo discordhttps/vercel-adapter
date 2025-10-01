@@ -1,6 +1,6 @@
 {
   "name": "@discordhttps/vercel-adapter",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "An adapter for integrating discord.https with Vercel.",
   "main": "./dist/index.js",
   "type": "module",
