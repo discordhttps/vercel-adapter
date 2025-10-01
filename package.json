@@ -1,0 +1,41 @@
+{
+  "name": "@discordhttps/vercel-adapter",
+  "version": "1.0.2",
+  "description": "An adapter for integrating discord.https with Vercel.",
+  "main": "./dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/discord-http/Vercel-adapter.git"
+  },
+  "author": "discord.https",
+  "license": "MIT",
+  "keywords": [
+    "discord-Vercel",
+    "discord",
+    "discord.js",
+    "discord-http-interactions",
+    "discord-interactions",
+    "http-interactions",
+    "discord.https",
+    "discord-api",
+    "interaction-router"
+  ],
+  "devDependencies": {
+    "@vercel/node": "^5.3.24"
+  }
+}
