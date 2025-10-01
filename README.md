@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/npm/l/@discordhttps/vercel-adapter.svg)](LICENSE)
 [![Downloads](https://img.shields.io/npm/dm/@discordhttps/vercel-adapter.svg)](https://www.npmjs.com/package/@discordhttps/vercel-adapter)
 
-**@discordhttps/vercel-adapter** is an adapter for integrating [**discordhttps**](https://www.npmjs.com/package/discordhttps) with [**Vercel**](https://vercel.com).
+**@discordhttps/vercel-adapter** is an adapter for integrating [**discord.https**](https://www.npmjs.com/package/discord.https) with [**Vercel**](https://vercel.com).
 
 ## Installation
 
